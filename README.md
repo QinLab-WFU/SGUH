@@ -16,6 +16,9 @@ CUDA 11.8
 Processing dataset
 
 THINGS: https://things-initiative.org
+
 ImageNet: https://image-net.org/challenges/LSVRC/2012/
+
 NUS-WIDE: https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html
+
 MIRFLICKR-25K: https://press.liacs.nl/mirflickr/
